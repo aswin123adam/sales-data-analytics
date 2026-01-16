@@ -102,7 +102,7 @@ The Power BI dashboard includes:
 
 | Member | Lead Role | Supporting Role |
 |--------|-----------|-----------------|
-| Aswin Muthusamy | Data Cleaning, Scripting, Dashboard | Proof-reading |
+| **Aswin Muthusamy** | Data Cleaning, Scripting, Dashboard | Proof-reading |
 | Ganga Hariharan | Report Writing, Insights | Proof-reading |
 | Omkar Krishnapurkar | Report Writing, Meetings | Dashboard |
 | Adhish Pillai | Presentation | Insights |
